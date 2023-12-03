@@ -1,0 +1,6 @@
+{
+  "rubyLsp.formatter": "auto",
+  "rubyLsp.rubyVersionManager": "asdf",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true
+}
